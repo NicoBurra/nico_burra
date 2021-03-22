@@ -5,7 +5,7 @@
 
 title: Nicolas Burra's personal website # Website name
 baseurl: '' # Website URL
-copyright: '© {year} Me' # Footer text, e.g. '© {year} Me'
+copyright: '© {year}- Nicolas Burra' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
