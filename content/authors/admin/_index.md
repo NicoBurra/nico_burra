@@ -51,7 +51,11 @@ social:
   link: https://scholar.google.com/citations?user=7vUJ4vkAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/nicolas-burra-phd-a4791ab5/
+  link: https://www.linkedin.com/in/nicolas-burra-phd-a4791ab5/ 
+ - icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Nicolas-Burra
+  
   
 
 # Link to a PDF of your resume/CV.
