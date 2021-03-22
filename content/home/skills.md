@@ -19,7 +19,7 @@ feature:
 - description: 90%
   icon: laptop-code
   icon_pack: fas
-  name: R
+  name: Programming
 - description: 100%
   icon: chart-line
   icon_pack: fas
