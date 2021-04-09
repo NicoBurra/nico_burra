@@ -36,7 +36,7 @@ experience:
     company_url: 'https://institutducerveau-icm.org/en/'
     location: Paris
     date_start: '2014-01-01'
-    date_end: ''2015-01-01''
+    date_end: '2015-01-01'
     description: |2-
         Responsibilities include:
         
@@ -47,7 +47,7 @@ experience:
     company_url: 'https://www.hug.ch/en/neurology'
     location: Genève
     date_start: '2010-01-01'
-    date_end: '2011-01-01''
+    date_end: '2011-01-01'
     description: |2-
         Responsibilities include:
         
