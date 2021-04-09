@@ -21,6 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
             
   - title: Maitre Assistant
@@ -46,5 +47,3 @@ experience:
     date_start: '2010-01-01'
     date_end: '2011-01-01'
     description: Assessing cognitive functions of neurological patients
-     
-   ---
