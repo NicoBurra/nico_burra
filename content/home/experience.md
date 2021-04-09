@@ -4,7 +4,7 @@
 widget: experience
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 40
@@ -25,9 +25,9 @@ date_format: Jan 2006
 experience:
             
   - title: Maitre Assistant
-    company: University de Genève
+    company: University de Geneva
     company_url: ''
-    location: Genève
+    location: Geneva
     date_start: '2017-01-01'
     date_end: ''
     description: Researcher and teaching assistant.
@@ -43,7 +43,7 @@ experience:
   - title: Research Assistant
     company: HUG (Neurologie)
     company_url: 'https://www.hug.ch/en/neurology'
-    location: Genève
+    location: Geneva
     date_start: '2010-01-01'
     date_end: '2011-01-01'
     description: Assessing cognitive functions of neurological patients
